@@ -1,2 +1,2 @@
 # Canvas-Streaming-Example
-Facebok Streaming ,Canvas ,Facebook API
+Facebook Streaming ,Canvas ,Facebook API
